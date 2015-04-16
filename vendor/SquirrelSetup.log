@@ -1,0 +1,42 @@
+﻿Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-2496-1mji1jy\AutoTeever.0.1.5.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe
+Program: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg
+ReleasePackage: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg => C:\shared\Projects\test_installer\dist\AutoTeever-0.1.5-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\Orgil\AppData\Local\SquirrelTemp\tempa\AutoTeever.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-1084-vzl01h\AutoTeever.0.1.5.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe
+Program: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg
+ReleasePackage: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg => C:\shared\Projects\test_installer\dist\AutoTeever-0.1.5-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\Orgil\AppData\Local\SquirrelTemp\tempa\AutoTeever.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-4136-1bomw72\AutoTeever.0.1.5.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe
+Program: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg
+ReleasePackage: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg => C:\shared\Projects\test_installer\dist\AutoTeever-0.1.5-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\Orgil\AppData\Local\SquirrelTemp\tempa\AutoTeever.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-4220-yjys43\AutoTeever.0.1.5.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe
+Program: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg
+ReleasePackage: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg => C:\shared\Projects\test_installer\dist\AutoTeever-0.1.5-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\Orgil\AppData\Local\SquirrelTemp\tempa\AutoTeever.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-2416-lfk4vo\AutoTeever.0.1.5.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe
+Program: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg
+ReleasePackage: Creating release package: C:\shared\Projects\test_installer\dist\AutoTeever.0.1.5.nupkg => C:\shared\Projects\test_installer\dist\AutoTeever-0.1.5-full.nupkg
+ReleasePackage: Extracting dependent packages: []
+ReleasePackage: Removing unnecessary data
+ReleasePackage: No release notes found in C:\Users\Orgil\AppData\Local\SquirrelTemp\tempa\AutoTeever.nuspec
+Program: Building embedded zip file for Setup.exe
+Program: Starting Squirrel Updater: --releasify C:\Users\Orgil\AppData\Local\Temp\squirrel-installer-115316-2340-otf1x9\AutoTeever.0.1.5-full.nupkg --releaseDir C:\shared\Projects\test_installer\dist --loadingGif \\vmware-host\Shared Folders\Projects\test_installer\resources\install-spinner.gif
+Program: Bootstrapper EXE found at:\\vmware-host\Shared Folders\Projects\test_installer\vendor\Setup.exe

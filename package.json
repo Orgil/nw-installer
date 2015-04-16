@@ -1,0 +1,21 @@
+{
+  "name": "installer",
+  "version": "0.0.1",
+  "description": "Smart City Application",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Limesoft",
+      "email": "orgil@limesoft.mn"
+    }
+  ],
+  "dependencies" : {
+    "temp": "^0.8.1",
+    "underscore": "^1.7.0"
+  },
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-atom-shell-installer": "*",
+    "grunt-node-webkit-builder": "*"
+  }
+}

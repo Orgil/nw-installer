@@ -1,0 +1,36 @@
+{
+  "name": "AutoTeever",
+  "main": "index.html",
+  "description": "AutoTeever DataEntry App",
+  "version": "0.1.5",
+  "window": {
+    "icon": "resources/assets/images/appLogo-5.png",
+    "title": "Smart city 0.1.5 - DataEntry",
+    "toolbar": true,
+    "frame": true,
+    "fullscreen": false,
+    "width": 1280,
+    "height": 720,
+    "min_width": 1280,
+    "min_height":720
+  },
+  "platformOverrides": {
+    "win": {
+      "toolbar": false
+    }
+  },
+  "manifestUrl": "http://172.16.100.101/autoteever/package.json",
+  "packages": {
+    "win": {
+      "url": "http://172.16.100.101/autoteever/app.zip"
+    }
+  },
+  "dependencies": {
+    "ncp": "^0.5.1",
+    "request": "^2.36.0",
+    "del": "~0.1.2",
+    "semver": "^3.0.1",
+    "excel4node": "*"
+  },
+  "inject-js-start": "init.js"
+}
